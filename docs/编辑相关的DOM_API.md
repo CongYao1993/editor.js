@@ -47,4 +47,7 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/Document/execCommand
 
 ```JavaScript
 bool = document.execCommand(aCommandName, aShowDefaultUI, aValueArgument)
+
+document.execCommand('bold');
+document.execCommand('foreColor', false, '#FF0000');
 ```
