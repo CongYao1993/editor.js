@@ -19,4 +19,4 @@ Javascript实现的富文本编辑器
 - 打开、保存
 
 ## 通过事件驱动实现的富文本编辑器
-[通过事件驱动实现的富文本编辑器](./richEditor.html)
+[通过事件驱动实现的富文本编辑器](https://raw.githack.com/CongYao1993/editor.js/main/richEditor.html)
