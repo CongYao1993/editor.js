@@ -18,5 +18,6 @@ Javascript实现的富文本编辑器
 - 复制、剪贴、粘贴
 - 打开、保存
 
-## 通过事件驱动实现的富文本编辑器
-[通过事件驱动实现的富文本编辑器](https://raw.githack.com/CongYao1993/editor.js/main/richEditor.html)
+## 设计文档
+1. [编辑相关的DOM_API](./docs/1.%E7%BC%96%E8%BE%91%E7%9B%B8%E5%85%B3%E7%9A%84DOM_API.md)
+2. [从事件驱动到数据驱动](./docs/2.%E4%BB%8E%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E5%88%B0%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8.md)
