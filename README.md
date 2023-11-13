@@ -21,3 +21,4 @@ Javascript实现的富文本编辑器
 ## 设计文档
 1. [编辑相关的DOM_API](./docs/1.%E7%BC%96%E8%BE%91%E7%9B%B8%E5%85%B3%E7%9A%84DOM_API.md)
 2. [从事件驱动到数据驱动](./docs/2.%E4%BB%8E%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E5%88%B0%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8.md)
+3. [用数据驱动思想设计富文本编辑器](./docs/3.%E7%94%A8%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E6%80%9D%E6%83%B3%E8%AE%BE%E8%AE%A1%E5%AF%8C%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8.md)
