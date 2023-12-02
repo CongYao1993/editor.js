@@ -6,7 +6,7 @@ import { Segment } from './Segment';
 export class Paragraph extends Node {
     public static create(json: any) {
         const { id, style, segments } = json;
-        return new Paragraph(id, style, segments.map((segment) => Segment.create(segment)));
+        return new Paragraph(id, style, segments.map((segment: Segment) => Segment.create(segment)));
     }
 
     public style: IStyle;
